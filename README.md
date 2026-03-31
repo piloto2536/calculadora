@@ -9,7 +9,7 @@ O projeto está hospedado utilizando **GitHub Pages**.
 
 Você pode acessar o site pelo link:
 
-👉 [https://SEU_USUARIO.github.io/NOME_DO_REPOSITORIO/](https://piloto2536.github.io/calculadora/)
+👉 https://piloto2536.github.io/calculadora/
 
 
 ## 📁 Estrutura do Projeto
