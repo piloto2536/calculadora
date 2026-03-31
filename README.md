@@ -11,6 +11,5 @@ Você pode acessar o site pelo link:
 
 👉 [https://SEU_USUARIO.github.io/NOME_DO_REPOSITORIO/](https://piloto2536.github.io/calculadora/)
 
-> Substitua `SEU_USUARIO` e `NOME_DO_REPOSITORIO` pelos dados corretos do seu GitHub.
 
 ## 📁 Estrutura do Projeto
